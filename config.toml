@@ -15,58 +15,46 @@ DefaultContentLanguage = "en"
   name = "Home"
   url = "/"
   weight = 1
-  [[menu.main]]
-    identifier = "home-parallax"
-    parent = "home"
-    name = "Parallax Slider"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "home-grid"
-    parent = "home"
-    name = "Grid Slider"
-    url = "/home-grid/"
-    weight = 2
-  [[menu.main]]
-    identifier = "home-half"
-    parent = "home"
-    name = "Half Slider"
-    url = "/home-half/"
-    weight = 3
-  [[menu.main]]
-    identifier = "home-blur"
-    parent = "home"
-    name = "Blur Slider"
-    url = "/home-blur/"
-    weight = 4
-  [[menu.main]]
-    identifier = "home-disp"
-    parent = "home"
-    name = "Distortion Slider"
-    url = "/home-disp/"
-    weight = 5
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
   weight = 2
 [[menu.main]]
-  identifier = "works"
-  name = "Works"
-  url = "/portfolio/"
+  identifier = "years"
+  name = "Years"
+  url = "/years/"
   weight = 3
   [[menu.main]]
-    identifier = "works-grid"
-    parent = "works"
-    name = "Works"
-    url = "/portfolio/"
+    identifier = "2024"
+    parent = "years"
+    name = "2024"
+    url = "/2024/"
     weight = 1
   [[menu.main]]
-    identifier = "works-gallery"
-    parent = "works"
-    name = "Gallery"
-    url = "/gallery/"
-    weight = 2
+    identifier = "2023"
+    parent = "years"
+    name = "2023"
+    url = "/2023/"
+    weight = 1
+  [[menu.main]]
+    identifier = "2022"
+    parent = "years"
+    name = "2022"
+    url = "/2022/"
+    weight = 1
+  [[menu.main]]
+    identifier = "2021"
+    parent = "years"
+    name = "2021"
+    url = "/2021/"
+    weight = 1
+  [[menu.main]]
+    identifier = "2020"
+    parent = "years"
+    name = "2020"
+    url = "/2020/"
+    weight = 1
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
