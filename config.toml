@@ -1,6 +1,6 @@
 # General Settings
 title = "Aster - Creative Agency Portfolio Hugo Theme"
-baseURL = "https://bslthemes.com/" #YOUR SITE URL
+baseURL = "https://jscfs.co.uk" #YOUR SITE URL
 languageCode = "en-us"
 theme = "aster"
 resourceDir = "resources"
