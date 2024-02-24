@@ -5,19 +5,19 @@ layout: page
 
 # Contents
 
-- [Useful Links](#Links)
-- [Fundraising](#Fundraising)
-- [Contacts](#People)
+- [Useful Links](#links)
+- [Fundraising](#fundraising)
+- [People](#people)
 
 ---
-# Links
+# Links<a name="links"></a>
 
 - [The Halo Project](https://www.haloproject.org.uk/)
 - [JSCFS Just Giving](https://www.justgiving.com/page/jscfs2024/)
 - [Events Calendar](/calendars/)
 
 ---
-# Fundraising
+# Fundraising<a name="fundraising"></a>
 
 Model fundraising is an important part of our fundraising effort. The main beauty of this being it can get donations from people outside of John Snow and Durham. 
 
@@ -52,7 +52,7 @@ Please do! Use [this form](https://forms.gle/pbisfe135vuDEjsS8/) to submit what 
 - Pestering friends and family
 
 ---
-# People
+# People<a name="people"></a>
 
 Positon | Name
 ---|---
