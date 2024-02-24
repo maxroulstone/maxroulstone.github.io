@@ -82,7 +82,4 @@ Treasurer | Matthew Walsh
 Sponsorship Team | Anika Pittal, Geo Shah
 Events Coordinator | Mabli Watson
 Head of Photography | Louis De Robert Hautequere
-
-[images/about_cover.jpg]: over_cover.jpg
-[def]: /across_column.png
-[def2]: /calendars
+Media Team | Mezie Agu, Caitlin Smith
