@@ -17,14 +17,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/events_cal/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/logistics_cal/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -49,6 +41,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/events_cal/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,6 +62,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/home-half/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/logistics_cal/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
