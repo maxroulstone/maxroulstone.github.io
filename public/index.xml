@@ -6,15 +6,7 @@
     <description>Recent content in Home on Aster - Creative Agency Portfolio Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 12:49:27 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -37,13 +29,6 @@
       <description> Calendar GoogleCal iCal JSCFS - Logistics here here JSCFS - Creative here here JSCFS - Events here here </description>
     </item>
     <item>
-      <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Creative Calendar</title>
       <link>http://localhost:1313/creative_cal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,34 +47,6 @@
       <link>http://localhost:1313/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gallery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home Blur</title>
-      <link>http://localhost:1313/home-blur/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home-blur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home Grid</title>
-      <link>http://localhost:1313/home-grid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home-grid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home Half</title>
-      <link>http://localhost:1313/home-disp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home-disp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home Half</title>
-      <link>http://localhost:1313/home-half/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home-half/</guid>
       <description></description>
     </item>
     <item>

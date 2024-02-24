@@ -1,7 +1,7 @@
 # General Settings
-title = "Aster - Creative Agency Portfolio Hugo Theme"
+title = "JSCFS - John Snow Charity Fashion Show"
 baseURL = "https://jscfs.co.uk" #YOUR SITE URL
-languageCode = "en-us"
+languageCode = "en-gb"
 theme = "aster"
 resourceDir = "resources"
 paginate = 4
@@ -56,11 +56,6 @@ DefaultContentLanguage = "en"
     url = "/2020/"
     weight = 1
 [[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 4
-[[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "/blog/"
@@ -73,10 +68,10 @@ DefaultContentLanguage = "en"
 
 # Main Settings
 [params]
-dateFormat = "January 2, 2006"
-authorName = "Federico Ober"
+dateFormat = "January 1, 2024"
+authorName = "Max Roulstone"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
+formspreeURL = "https://formspree.io/f/mbjnydae" #YOUR FORMSPREE URL
 googleAnalytics = "G-PXT13QSZRN" #YOUR GOOGLE ANALYTICS CODE
 
 # Preloader Settings
