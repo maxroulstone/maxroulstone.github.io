@@ -3,7 +3,6 @@ layout: page
 title: Calendars
 ---
 
-# Calendar Links
 
 Calendar | GoogleCal | iCal
 ---|---|---

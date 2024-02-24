@@ -6,6 +6,7 @@ layout: page
 # Contents
 
 - [Useful Links](#links)
+- [Key Dates](#dates)
 - [Fundraising](#fundraising)
 - [People](#people)
 
@@ -17,6 +18,14 @@ layout: page
 - [Events Calendar](/calendars/)
 
 ---
+# Key Dates<a name="dates"></a>
+
+Date | Details
+---|---
+10th June | JSCFS Night 1 - DARC
+11th June | JSCFS Night 2 - DARC
+
+---
 # Fundraising<a name="fundraising"></a>
 
 Model fundraising is an important part of our fundraising effort. The main beauty of this being it can get donations from people outside of John Snow and Durham. 
@@ -25,7 +34,11 @@ We want you to have fun with this, so please don't feel pressured. Any strange a
 
 ### How much do I need to raise?
 
-Due to the growth of the fashion show this year we are asking models to aim to £100 each.
+Due to the growth of the fashion show this year we are asking models to aim to **£100** each.
+
+### When do I need to do this by?
+
+Ermm, whenever suits you really. We may as you to move some events around but can cross that bridge if it happens. Any month-long type things can happen in June and finish after the main shows if needed.
 
 ### Do I have to do this individually?
 
@@ -41,7 +54,7 @@ This can either be collected through our [Just Giving](https://www.justgiving.co
 
 ### Should I run my idea past the exec?
 
-Please do! Use [this form](https://forms.gle/pbisfe135vuDEjsS8/) to submit what are you are going to doing.
+Please do! Use [this form](https://forms.gle/pbisfe135vuDEjsS8/) to submit what are you are going to be doing.
 
 ### Have you got any examples/ideas?
 
@@ -50,6 +63,10 @@ Please do! Use [this form](https://forms.gle/pbisfe135vuDEjsS8/) to submit what 
 - Charity darts league
 - 24 hour matches
 - Pestering friends and family
+
+## Should I update my Facebook profile picture?
+
+Shortly we will be asking you to do this. We are just waiting for February pay day as we feel we'll get more people donating. Stay tuned for more info.
 
 ---
 # People<a name="people"></a>

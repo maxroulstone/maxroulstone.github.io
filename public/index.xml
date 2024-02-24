@@ -34,7 +34,7 @@
       <link>http://localhost:1313/calendars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/calendars/</guid>
-      <description>Calendar Links Calendar GoogleCal iCal JSCFS - Logistics here here JSCFS - Creative here here JSCFS - Events here here </description>
+      <description> Calendar GoogleCal iCal JSCFS - Logistics here here JSCFS - Creative here here JSCFS - Events here here </description>
     </item>
     <item>
       <title>Contact Us</title>
@@ -104,7 +104,7 @@
       <link>http://localhost:1313/model-handbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/model-handbook/</guid>
-      <description>Contents Useful Links Fundraising People Links The Halo Project JSCFS Just Giving Events Calendar Fundraising Model fundraising is an important part of our fundraising effort.</description>
+      <description>Contents Useful Links Key Dates Fundraising People Links The Halo Project JSCFS Just Giving Events Calendar Key Dates Date Details 10th June JSCFS Night 1 - DARC 11th June JSCFS Night 2 - DARC Fundraising Model fundraising is an important part of our fundraising effort.</description>
     </item>
   </channel>
 </rss>
