@@ -25,38 +25,8 @@ enableRobotsTXT = true
 [[menu.main]]
   identifier = "years"
   name = "Years"
-  url = "/years/"
+  url = "/portfolio/"
   weight = 3
-  [[menu.main]]
-    identifier = "2024"
-    parent = "years"
-    name = "2024"
-    url = "/2024/"
-    weight = 1
-  [[menu.main]]
-    identifier = "2023"
-    parent = "years"
-    name = "2023"
-    url = "/2023/"
-    weight = 1
-  [[menu.main]]
-    identifier = "2022"
-    parent = "years"
-    name = "2022"
-    url = "/2022/"
-    weight = 1
-  [[menu.main]]
-    identifier = "2021"
-    parent = "years"
-    name = "2021"
-    url = "/2021/"
-    weight = 1
-  [[menu.main]]
-    identifier = "2020"
-    parent = "years"
-    name = "2020"
-    url = "/2020/"
-    weight = 1
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
@@ -124,17 +94,29 @@ tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 [params.portfolio]
 homeNumOfItems = 12
 [[params.portfolio.filters]]
-name = "UI UX Design"
-slug = "ui-ux-design"
+name = "2024"
+slug = "2024"
 [[params.portfolio.filters]]
-name = "Photography"
-slug = "photography"
+name = "2023"
+slug = "2023"
 [[params.portfolio.filters]]
-name = "Development"
-slug = "development"
+name = "2022"
+slug = "2022"
 [[params.portfolio.filters]]
-name = "Branding"
-slug = "branding"
+name = "2021"
+slug = "2021"
+[[params.portfolio.filters]]
+name = "2020"
+slug = "2020"
+
+[params.models]
+homeNumOfItems = 12
+[[params.models.filters]]
+name = "Info"
+slug = "info"
+[[params.models.filters]]
+name = "Rehearsals"
+slug = "rehearsals"
 
 # Sitemap Settings
 [sitemap]

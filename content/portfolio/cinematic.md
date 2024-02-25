@@ -1,7 +1,7 @@
 ---
 title: Call it Cinematic.
-category: The Show
-category_slug: vision
+category: 2024
+category_slug: 2024
 image: images/jscfs_cover.jpeg
 
 
@@ -17,7 +17,7 @@ info:
     value: 2024
 
   - label: Photographer
-    value: Louis De Rober Hautequere
+    value: Louis De Robert Hautequere
 
 description1:
   enable: true

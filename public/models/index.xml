@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Models on My New Hugo Site</title>
+    <title>Models on JSCFS | John Snow Charity Fashion Show</title>
     <link>http://localhost:1313/models/</link>
-    <description>Recent content in Models on My New Hugo Site</description>
+    <description>Recent content in Models on JSCFS | John Snow Charity Fashion Show</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 15:01:26 +0000</lastBuildDate>
+    <language>en-gb</language>
     <atom:link href="http://localhost:1313/models/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Handbook</title>
-      <link>http://localhost:1313/models/handbook/</link>
-      <pubDate>Fri, 23 Feb 2024 15:01:26 +0000</pubDate>
-      <guid>http://localhost:1313/models/handbook/</guid>
+      <title>Model Handbook</title>
+      <link>http://localhost:1313/models/model-handbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/models/model-handbook/</guid>
       <description></description>
     </item>
   </channel>
