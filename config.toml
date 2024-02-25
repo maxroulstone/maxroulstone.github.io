@@ -1,5 +1,5 @@
 # General Settings
-title = "JSCFS - John Snow Charity Fashion Show"
+title = "JSCFS | John Snow Charity Fashion Show"
 baseURL = "https://jscfs.co.uk" #YOUR SITE URL
 languageCode = "en-gb"
 theme = "aster"
@@ -7,6 +7,8 @@ resourceDir = "resources"
 paginate = 4
 summaryLength = 20
 DefaultContentLanguage = "en"
+Description = "An annual event led entirely by students of John Snow College - Durham University aiming to raise money for local charites in the North East of England."
+enableRobotsTXT = true
 
 # Menu Settings
 [menu]
@@ -147,3 +149,5 @@ home = ["HTML", "RSS", "JSON"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
