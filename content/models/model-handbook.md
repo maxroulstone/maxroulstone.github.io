@@ -4,7 +4,7 @@ category: Info
 category_slug: info
 image: images/model_handbook_cover.jpeg
 redirect_from:
-    - content/model-handbook
+    - /model-handbook/
 
 full_image: images/model_handbook_cover.jpeg
 
