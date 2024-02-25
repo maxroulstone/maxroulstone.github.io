@@ -30,6 +30,13 @@
       <description> Calendar GoogleCal iCal JSCFS - Logistics here here JSCFS - Creative here here JSCFS - Events here here </description>
     </item>
     <item>
+      <title>Call it Cinematic</title>
+      <link>http://localhost:1313/portfolio/cinematic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/cinematic/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contact Us</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
