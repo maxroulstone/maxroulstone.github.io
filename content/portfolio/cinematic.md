@@ -1,13 +1,13 @@
 ---
 title: Call it Cinematic.
 category: The Show
-category_slug: Vision
-image: images/jscfs_cover.jpg
+category_slug: vision
+image: images/jscfs_cover.jpeg
 
 
-full_image: images/jscfs_cover.jpg
+full_image: images/jscfs_cover_wide.jpeg
 info:
-  - label: Authot
+  - label: Author
     value: Max Roulstone
 
   - label: Model
