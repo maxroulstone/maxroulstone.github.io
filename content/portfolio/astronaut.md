@@ -4,6 +4,7 @@ title: Astronaut
 category: Photography
 category_slug: photography
 image: images/started-n12-900x1170.jpg
+draft: true
 
 # full details
 full_image: images/started_new.jpg
