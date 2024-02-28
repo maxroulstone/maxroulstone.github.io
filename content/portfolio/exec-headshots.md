@@ -28,6 +28,10 @@ gallery:
   images:
     - images/exec-headshots/bts1.jpg
     - images/exec-headshots/bts2.jpg
+    - images/exec-headshots/bts3.jpg
+    - images/exec-headshots/bts4.jpg
+    - images/exec-headshots/bts5.jpg
+    - images/exec-headshots/bts6.jpg
 
 description2:
     enable: true
@@ -35,9 +39,16 @@ description2:
     text: "<p>Utilising the artistic and storytelling potential of group shots allowed us to give a more insightful look into how the fashion show is structured and how each element of the show comes together. Individual shots gave another opportunity for the incredibly talented Exec to express themselves, giving viewers another look into the people running the show.</p><p>Finally, after successful shoots we turned to the editting of the shots. Louis and Luca took to their laptops and were able to give the shots the aesthetic we desired. The talented media team then applied the finishing touches, overlaying graphics to give a a professional end product.</p>"
 
 carousel:
-    enable: false
+    enable: true
     images:
-        - 
+        - images/exec-headshots/pres.jpg
+        - images/exec-headshots/events.jpg
+        - images/exec-headshots/fat.jpg
+        - images/exec-headshots/media.jpg
+        - images/exec-headshots/fashion.jpg
+        - images/exec-headshots/photo1.jpg
+        - images/exec-headshots/photo2.jpg
+
 
 ---
 
