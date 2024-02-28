@@ -6,27 +6,13 @@
     <description>Recent content in Home on JSCFS | John Snow Charity Fashion Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 13 Jul 2020 12:49:27 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Astronaut</title>
-      <link>http://localhost:1313/portfolio/astronaut/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/astronaut/</guid>
       <description></description>
     </item>
     <item>
@@ -97,6 +83,13 @@
       <link>http://localhost:1313/models/model-handbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/models/model-handbook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model Headshots</title>
+      <link>http://localhost:1313/portfolio/model-headshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/model-headshots/</guid>
       <description></description>
     </item>
   </channel>

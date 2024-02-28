@@ -2,26 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/astronaut/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -66,6 +52,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/models/model-handbook/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/model-headshots/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
