@@ -23,6 +23,11 @@ enableRobotsTXT = true
   url = "/about/"
   weight = 2
 [[menu.main]]
+  identifier = "donate"
+  name = "Donate"
+  url = "https://www.justgiving.com/page/jscfs2024"
+  weight = 3
+[[menu.main]]
   identifier = "years"
   name = "Years"
   url = "/portfolio/"
@@ -51,7 +56,7 @@ logo = "images/text_logo_white.png"
 
 # Footer Settings
 [params.footer]
-copyright = "Copyright © 2024 Roulstone"
+copyright = "Copyright © 2024 Max Roulstone"
 col1_title = "Address:"
 col1_text = "John Snow College,<br/>Durham, UK"
 col2_title = "Follow Us:"
@@ -74,6 +79,11 @@ weight = 1
 title = "LinkedIn"
 icon = "fab fa-linkedin-in"
 url = "https://linkedin.com/company/jscfs/"
+weight = 2
+[[params.social]]
+title = "JustGiving"
+icon = "fas fa-donate"
+url = "https://www.justgiving.com/page/jscfs2024"
 weight = 2
 
 
