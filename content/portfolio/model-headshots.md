@@ -27,13 +27,13 @@ description1:
 gallery:
     enable: true
     images:
-        - images/model-headshots/bts/1.jpg
-        - images/model-headshots/bts/2.jpg
-        - images/model-headshots/bts/3.jpg
-        - images/model-headshots/bts/4.jpg
-        - images/model-headshots/bts/5.jpg
-        - images/model-headshots/bts/6.jpg
-        - images/model-headshots/bts/7.jpg
+        - images/model-headshots/bts/1.JPG
+        - images/model-headshots/bts/2.JPG
+        - images/model-headshots/bts/3.JPG
+        - images/model-headshots/bts/4.JPG
+        - images/model-headshots/bts/5.JPG
+        - images/model-headshots/bts/6.JPG
+        - images/model-headshots/bts/7.JPG
 
 description2:
     enable: true
