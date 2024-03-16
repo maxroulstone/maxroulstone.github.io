@@ -6,8 +6,50 @@ image: images/model_cover.jpg
 
 full_image: images/model_cover.jpg
 
+info:
+    - label: Author
+      value: Max Roulstone
+
+    - label: Photographers
+      value: Louis De Robert Hautequere, Luca Martin, Pip Gathercole
+
+    - label: Year
+      value: 2024
+
+    - label: Creatives
+      value: Mezie Agu, Caitlin Smith
+
 description1:
     enable: true
     title: 
-    text: <h1>Coming Soon...</h1>
+    text: <p>Arguably our biggest media post of the year is our model release shots. People are excited to see who is going to be taking the runway come June. With that in mind, as well as driving to be bigger in 2024, the Exec wanted to be super creative this year with these.</p><p>Like the Exec headshots we thought using group photos in combination with the individual shots would give us the opportunity to show a more creative side to the models this year. Allowing them to express their personality and style as well as provide them with more experience being in a photoshoot.</p><p>With that our wonderful creative team set upon creating ideas that we could pull off. After consultation with the photography team we settled on a streetwear style, allowing the models enough freedom to express themselves with their outfits as well as being able to utilise picturesque areas around Durham.</p>
+
+gallery:
+    enable: true
+    images:
+        - images/model-headshots/bts/1.jpg
+        - images/model-headshots/bts/2.jpg
+        - images/model-headshots/bts/3.jpg
+        - images/model-headshots/bts/4.jpg
+        - images/model-headshots/bts/5.jpg
+        - images/model-headshots/bts/6.jpg
+        - images/model-headshots/bts/7.jpg
+
+description2:
+    enable: true
+    title:
+    text: <p>Thanks to the dedicated photography team and after a few challenges with scheduling, including a few amber weather warnings courtesy of Storm Isha, we had completed all shoots over the course of a few weekends.</p><p>Louis then began the process of cutting photos and editing. Having ran the photos past the models and the editing done in record time, the wonderful media team overlayed the photos with graphics to represent movie posters. This feeds into our theme of bringing incredible visuals to JSCFS this year.</p><p>With that the final posts were done. We may be a bit biased but we think they look incredible.</p>
+
+carousel:
+    enable: true
+    images:
+        - images/model-headshots/hush.jpg
+        - images/model-headshots/getaway.jpg
+        - images/model-headshots/innercircle.jpg
+        - images/model-headshots/outoftime.jpg
+        - images/model-headshots/outsiders.jpg
+        - images/model-headshots/muses.jpg
+        - images/model-headshots/theescape.jpg
+        - images/model-headshots/sonder.jpg
+        - images/model-headshots/runitdown.jpg   
 ---
