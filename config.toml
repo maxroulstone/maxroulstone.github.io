@@ -32,11 +32,6 @@ enableRobotsTXT = true
   name = "Years"
   url = "/portfolio/"
   weight = 3
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 6
 
 # Main Settings
 [params]
