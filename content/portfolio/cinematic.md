@@ -8,7 +8,7 @@ image: images/jscfs_cover.jpeg
 full_image: images/jscfs_cover_wide.jpeg
 info:
   - label: Author
-    value: Max Roulstone
+    value: Mezie Agu
 
   - label: Model
     value: Will Wolstenholme
@@ -22,5 +22,5 @@ info:
 description1:
   enable: true
   title: Introduction
-  text: "<p>This year, JSCFS is all about giving breathtaking visuals. We promise a show so visually appealing, its cinematic. With a stellar cast (our models) and amazing crew (our exec), we'll be sure to give you a show you'll never forget.</p>"
+  text: "<p>This year, JSCFS is all about giving breathtaking visuals. We promise a show so visually appealing, it's cinematic. With a stellar cast (our models) and amazing crew (our exec), we'll be sure to give you a show you'll never forget.</p>"
 ---
