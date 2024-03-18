@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Models on JSCFS | John Snow Charity Fashion Show</title>
-    <link>https://jscfs.co.uk/models/</link>
+    <link>http://localhost:1313/models/</link>
     <description>Recent content in Models on JSCFS | John Snow Charity Fashion Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://jscfs.co.uk/models/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Model Handbook</title>
-      <link>https://jscfs.co.uk/models/model-handbook/</link>
+      <link>http://localhost:1313/models/model-handbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jscfs.co.uk/models/model-handbook/</guid>
+      <guid>http://localhost:1313/models/model-handbook/</guid>
       <description></description>
     </item>
   </channel>

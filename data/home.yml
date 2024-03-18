@@ -29,3 +29,9 @@ main_slider:
       link: "/portfolio/model-headshots/"
       image: "images/model_cover.jpg"
 
+    - title: <font color="#956D8E">The HALO<br>Project.</font>
+      subtitle: ""
+      description: <font color="#878787">Proud to be supporting The Halo Project</font>
+      link: "/portfolio/halo/"
+      image: "images/halo_cover.jpg"
+

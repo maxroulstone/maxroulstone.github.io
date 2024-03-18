@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Years on JSCFS | John Snow Charity Fashion Show</title>
-    <link>https://jscfs.co.uk/portfolio/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content in Years on JSCFS | John Snow Charity Fashion Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://jscfs.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call it Cinematic.</title>
-      <link>https://jscfs.co.uk/portfolio/cinematic/</link>
+      <link>http://localhost:1313/portfolio/cinematic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jscfs.co.uk/portfolio/cinematic/</guid>
+      <guid>http://localhost:1313/portfolio/cinematic/</guid>
       <description></description>
     </item>
     <item>
       <title>Exec Headshots</title>
-      <link>https://jscfs.co.uk/portfolio/exec-headshots/</link>
+      <link>http://localhost:1313/portfolio/exec-headshots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jscfs.co.uk/portfolio/exec-headshots/</guid>
+      <guid>http://localhost:1313/portfolio/exec-headshots/</guid>
       <description></description>
     </item>
     <item>
       <title>Model Headshots</title>
-      <link>https://jscfs.co.uk/portfolio/model-headshots/</link>
+      <link>http://localhost:1313/portfolio/model-headshots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jscfs.co.uk/portfolio/model-headshots/</guid>
+      <guid>http://localhost:1313/portfolio/model-headshots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Halo Project</title>
+      <link>http://localhost:1313/portfolio/halo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/halo/</guid>
       <description></description>
     </item>
   </channel>
