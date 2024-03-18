@@ -23,7 +23,7 @@ info:
 description1:
     enable: true
     title: 
-    text: <p>This year JSCFS will be raising money for the charity <a href="https://haloproject.org.uk/">The Halo Project</a>, an award winning, specialist Black and minoritised community national charity, who's vision is to eliminate forced marriage, honour-based abuse and female genital mutilation within society. To change attitudes and beliefs for future generations, to break the cycle of abuse and to empower victims and survivors to make their own choices.</p><p>We believe the work The Halo Project does is incredibly important and we hope to be successful in raising vital funds for the cause as well as providing exposure and support for the outstanding work they complete.</p><p>If you can please donate <a href="https://www.justgiving.com/page/jscfs2024">here</a>.
+    text: <p>This year JSCFS will be raising money for the charity <a href="https://haloproject.org.uk/">The Halo Project</a>, an award winning, specialist Black and minoritised community national charity, who's vision is to eliminate forced marriage, honour-based abuse and female genital mutilation within society. To change attitudes and beliefs for future generations, to break the cycle of abuse and to empower victims and survivors to make their own choices.</p><p>We believe the work The Halo Project does is incredibly important and we hope to be successful in raising vital funds for the cause as well as providing exposure and support for the outstanding work they complete.</p><p>If you can, please donate <a href="https://www.justgiving.com/page/jscfs2024">here</a>.
 ---
 
 [def]: https://haloproject.org.uk/
